@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CICDPipeline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b1b9c44ffd4c2ef3ad148abd9b1fe317313a719")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19a5f90b8959452626be6233c49201cba8e8f200")]
 [assembly: System.Reflection.AssemblyProductAttribute("CICDPipeline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CICDPipeline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

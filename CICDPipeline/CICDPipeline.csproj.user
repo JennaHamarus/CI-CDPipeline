@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\jenna\Source\Repos\CI-CDPipeline\.github\workflows\AzureJulkaisuTesti.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
